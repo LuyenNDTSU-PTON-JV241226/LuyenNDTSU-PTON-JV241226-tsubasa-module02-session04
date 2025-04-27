@@ -3,6 +3,7 @@ import ToggleInfo from './ss04-2/ToggleInfo'
 import CardUser from './ss4-1/CardUser';
 import UserForm from './ss4-3/UserForm';
 import CounText from './ss4-4/CounText';
+import TodoApp from './ss4-5/TodoApp';
 import RandomNumberGenerator from './ss4-6/RandomNumberGenerator ';
 
 function App() {
@@ -42,6 +43,7 @@ function App() {
     <UserForm/>
     <CounText/>
     <RandomNumberGenerator/>
+    <TodoApp/>
     </>
   )
 }
